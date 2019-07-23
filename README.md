@@ -1,2 +1,2 @@
 # netbeans
-Parameter koneksi ke database terdapat pada class DBConnect 
+Parameter koneksi database terdapat kelas 'DbConnect' dalam package 'secureauth'
